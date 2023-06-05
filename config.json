@@ -1,0 +1,7 @@
+{
+    "openai_key": "",
+    "modules": [
+        "home/dashboard",
+        "home/homePage"
+    ]
+}
